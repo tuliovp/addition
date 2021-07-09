@@ -1,4 +1,4 @@
-                  <h1>Description</h1>
+<h1>Description</h1>
                   <hr>
                   <p>
                     To create apps with interactive UIs that will render data updates, React can be really helpful.
