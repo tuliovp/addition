@@ -9,7 +9,6 @@
                     (called “props”) and return React elements describing what should appear on the screen.
                     <br><br>Components serve the same purpose as JavaScript functions, but work in isolation and return HTML via a render() function. 
                     In this case, it will render simple random addition problems and the "You won!" message <code>if(this.state.score === 5)</code>.
-                    <img src="/media/you_won.png">  
                     <br><br>I have created different events which will be updated when the Enter key is <code>inputKeyPress</code> - extracting the answer and
                     checking if it is correct. If so, <code>score: state.score + 1</code>. If not, <code>score: state.score - 1</code>.
                   </p>
